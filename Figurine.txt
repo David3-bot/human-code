@@ -6,6 +6,8 @@ Figurine
     -controllare carta se presente in album
     
         -TRUE= mazzo carte copie
+            Contatore= (mazzo doppie > 20)
+                scambiare carte sabato
 
         -FALSE=  inserire nell'album
 
